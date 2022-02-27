@@ -47,8 +47,9 @@ body:hover{
 }
 .jacket:hover{
     /* border-radius: 50px; */
-    background-color: brown;
+    background-color: blue;
 }
+
 
 .price{
     color:#FABE4C;
