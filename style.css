@@ -8,6 +8,15 @@ body{
     background-color:#FFFBF0;
     line-height: 22px;
 }
+body:hover{
+   border-radius: 100px;
+    background-color: blue;
+    transform: scale(100px);
+    transform: rotate(180deg);
+    transform:translate(0px);
+    opacity: 0s;
+    
+}
 
 .buy-btn{
     background-color: #94AE2E;
@@ -36,6 +45,11 @@ body{
 .jacket{
     background-color: #fff;
 }
+.jacket:hover{
+    /* border-radius: 50px; */
+    background-color: brown;
+}
+
 .price{
     color:#FABE4C;
 }
