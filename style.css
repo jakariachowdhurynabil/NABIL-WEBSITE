@@ -15,6 +15,7 @@ body:hover{
     transform: rotate(180deg);
     transform:translate(0px);
     opacity: 0s;
+	transition:0.5s;
     
 }
 
@@ -48,6 +49,7 @@ body:hover{
 .jacket:hover{
     /* border-radius: 50px; */
     background-color: blue;
+	transition:0.5;
 }
 
 
